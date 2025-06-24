@@ -17,6 +17,16 @@ My core strength is **Python development**, and I love building smart, scalable 
 
 ---
 
+## 💼 What Sets Me Apart
+
+I’m not only strong in **Python development**, but also skilled in **SQL**, and I’m always eager to learn new tools and technologies. Whatever you hand over to me — whether it’s a new platform, cloud service, or data tool — I’m committed to delivering my best.
+
+Beyond technical skills, I bring:
+- The ability to **collaborate with stakeholders** and understand their product language
+- Experience translating business requirements into scalable, automated solutions
+- A mindset focused on **problem-solving**, continuous learning, and real-world impact
+
+
 ## 💡 Technical Skills
 
 ### 🐍 Core Strength
