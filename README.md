@@ -1,6 +1,7 @@
 # 👋 Hi there! I'm Bhavana Samboju
 
 I'm a **results-driven Python Automation Developer** and **Data Analyst**, transitioning into **Data Engineering** roles. With 4+ years of experience, I specialize in using **Python** to automate manual workflows, orchestrate ETL pipelines, and integrate with cloud services like **Snowflake** and **AWS**.
+I’ve worked on both structured **ETL pipelines** and flexible **data pipelines (ITD)**, using Python as the core and orchestrated with tools like Airflow and AWS Glue to ensure reliability and automation.
 
 My core strength is **Python development**, and I love building smart, scalable solutions that bring efficiency and structure to raw, messy data.
 
@@ -51,11 +52,13 @@ Beyond technical skills, I bring:
 ## 🏆 Professional Highlights
 
 - Automated Excel-based pipelines using Python, reducing manual work by over **60%**
-- Built scalable ETL scripts with modular design, orchestrated using **Apache Airflow**
-- Developed utilities for file renaming, chunk processing, and metadata extraction
+- Developed robust **ETL and ITD pipelines** to ingest, transform, and deliver data across systems
+- **Orchestrated Python automation** using tools like **Apache Airflow** and **AWS Glue**, enabling scalable and scheduled workflows
+- Built utilities for file renaming, chunk processing, and metadata extraction
 - Handled critical **production issues**, ensuring delivery and stability of pipelines
 - Collaborated with stakeholders to apply business logic on structured data
 - Conducted documentation and internal knowledge transfer for better team enablement
+
 
 ---
 
