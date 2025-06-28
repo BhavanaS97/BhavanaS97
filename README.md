@@ -26,6 +26,7 @@ Beyond technical skills, I bring:
 - The ability to **collaborate with stakeholders** and understand their product language
 - Experience translating business requirements into scalable, automated solutions
 - A mindset focused on **problem-solving**, continuous learning, and real-world impact
+- A strong emphasis on structured logging for traceability, debugging, and production-grade pipeline monitoring
 
 
 ## 💡 Technical Skills
@@ -40,8 +41,9 @@ Beyond technical skills, I bring:
   - **Snowflake:** SQL scripting, task management, Python API, data loading  
   - **AWS:** S3, Lambda basics, IAM concepts,
   - **AWS Glue (ETL jobs, crawlers, triggers)**  
-  - Python-based ETL pipelines 
+  - Python-based ETL pipelines
 - **Databases:** Oracle SQL, Snowflake
+- **Logging & Monitoring:** Python `logging` module, custom log handlers, JSON log formatting
 - **GitHub Actions**
 - **Version Control & Tools:** Git, WinSCP, PuTTY, VSCode, Shell scripting
 
