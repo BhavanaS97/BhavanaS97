@@ -42,6 +42,7 @@ Beyond technical skills, I bring:
   - **AWS Glue (ETL jobs, crawlers, triggers)**  
   - Python-based ETL pipelines 
 - **Databases:** Oracle SQL, Snowflake
+- **GitHub Actions**
 - **Version Control & Tools:** Git, WinSCP, PuTTY, VSCode, Shell scripting
 
 ### 📊 Basic Knowledge
